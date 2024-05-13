@@ -1,3 +1,1 @@
-# Learning Nodejs
-
-## Nodejs practice code
+# Explore Web Development with Node.js - LinkedIn Learning
