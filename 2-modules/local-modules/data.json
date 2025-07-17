@@ -1,0 +1,7 @@
+{
+  "name": "Thor",
+  "age": 1500,
+  "address": {
+    "place": "Asgard"
+  }
+}
