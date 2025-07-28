@@ -1,0 +1,17 @@
+{
+  "name": "custom-package",
+  "version": "1.0.0",
+  "description": "test package",
+  "keywords": [
+    "test",
+    "package"
+  ],
+  "license": "ISC",
+  "author": "Muhammad Sameem",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
